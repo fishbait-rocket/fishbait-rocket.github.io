@@ -3,6 +3,6 @@ A keyless, simple, easy-to-use and straightforward roblox exploit built using [A
 
 # Quick Links
 
-[Documentation](https://github.com/fishbait-rocket-program/wiki)
+[Documentation](https://github.com/fishbait-rocket/fishbait-rocket-program/wiki)
 
 [Download](https://fishbait-rocket.github.io/download)
