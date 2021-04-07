@@ -10,4 +10,4 @@ Download FishBait Rocket by clicking the download button below
 
 **NOTE: If the file is blocked by the browser you're using, press `CTRL + J` and then click `Keep`**
 
-Having a problem with the program? Check out the [Troubleshooting](https://github.com/fishbait-rocket/fishbait-rocket-program/wiki/faq) page
+Having a problem with the program? Check out the [Troubleshooting](https://github.com/fishbait-rocket/fishbait-rocket-program/wiki/troubleshooting) page
